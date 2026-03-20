@@ -1,5 +1,16 @@
+# Environment
 .env
+
+# Exported files
 exports/*.csv
-export.csv
+*.csv
+
+# Python
 __pycache__/
 *.pyc
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
